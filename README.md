@@ -1,2 +1,1 @@
-# helloworld
-first sample git hub
+# helloworld first sample git hub
